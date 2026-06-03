@@ -38,9 +38,7 @@
 
 <img align="right" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```javascript
 class GobikatheeshKarunakaran {
-
     constructor() {
         this.name = "Gobikatheesh Karunakaran";
         this.role = "Full Stack & DevOps Engineer";
@@ -48,7 +46,6 @@ class GobikatheeshKarunakaran {
         this.education = "BSc in Computer Science";
         this.currentCompany = "University of Jaffna";
     }
-
     techStack() {
         return {
             frontend: [
@@ -59,7 +56,6 @@ class GobikatheeshKarunakaran {
                 "HTML5",
                 "CSS3"
             ],
-
             backend: [
                 "Node.js",
                 "Express.js",
@@ -67,7 +63,6 @@ class GobikatheeshKarunakaran {
                 "REST APIs",
                 "Microservices"
             ],
-
             databases: [
                 "MariaDB",
                 "MySQL",
@@ -75,14 +70,12 @@ class GobikatheeshKarunakaran {
                 "MongoDB",
                 "Firebase"
             ],
-
             cloud: [
                 "AWS EC2",
                 "AWS Lambda",
                 "AWS S3",
                 "AWS RDS"
             ],
-
             devops: [
                 "Docker",
                 "Kubernetes",
@@ -91,7 +84,6 @@ class GobikatheeshKarunakaran {
             ]
         };
     }
-
     currentlyLearning() {
         return [
             "Cloud Native Systems",
@@ -101,12 +93,10 @@ class GobikatheeshKarunakaran {
             "Platform Engineering"
         ];
     }
-
     motto() {
         return "Build → Deploy → Scale → Repeat";
     }
 }
-```
 
 ---
 
